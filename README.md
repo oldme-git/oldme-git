@@ -11,4 +11,4 @@
 
 <h3> 🤙 Contact me </h3>
 
-![email](https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tyyn1022@gmail.com)
+  - tyyn1022@gmail.com
