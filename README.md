@@ -11,4 +11,4 @@
 
 <h3> 🤙 Contact me </h3>
 
-<img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tyyn1022@gmail.com">
+![email](https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tyyn1022@gmail.com)
