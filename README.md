@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I am oldme.
+**In the vastness of space and the immensity of time, it is my joy to share a planet and an epoch with Annie.**
 
-<!--
-**oldme-git/oldme-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldme-git">
 
-Here are some ideas to get you started:
+<h3> 😎 About me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 😒 Coding and Coding, focusing on Golang and popular project.
+  - 🧐 Learning more about Systems Design, Cloud Architecture and anything interesting.
+  - 🫨 Enjoys reading poems, novels and essays. But my favorite are music🎸 and natural science🔭.
+
+<h3> 🤙 Contact me </h3>
+
+<img src="https://img.shields.io/badge/email-white?style=social&logo=gmail&label=tyyn1022@gmail.com">
