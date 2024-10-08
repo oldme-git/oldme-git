@@ -1,4 +1,4 @@
-### Hi I am oldme.
+### Hi I am Oldme.
 **In the vastness of space and the immensity of time, it is my joy to share a planet and an epoch with You.**
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldme-git&hide=blade,scss,sass">
